@@ -1,0 +1,8 @@
+<svg width="450" height="128" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" clip-rule="evenodd" fill-rule="evenodd" d="m18.89,3l88.9,0c8.85,0 16.1,7.24 16.1,16.1l0,90.68c0,8.85 -7.24,16.1 -16.1,16.1l-90.69,0c-8.85,0 -16.1,-7.24 -16.1,-16.1l0,-88.9c0,-9.83 8.05,-17.88 17.89,-17.88zm14.99,31.06l57.12,0l0,15.02l-19.18,0l0,45.74l-18.76,0l0,-45.74l-19.18,0l0,-15.02z" fill="#1296db"/>
+  <text transform="matrix(1 0 0 1.07367 0 -24.405)" stroke="null" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="70" stroke-width="0" id="svg_2" y="107.07866" x="139.40625" fill="#000000">TMBLOG</text>
+ </g>
+</svg>
