@@ -31,5 +31,7 @@ jobs:
       - name: Deploy to EdgeOne Pages
         env:
           EDGEONE_API_TOKEN: ${{ secrets.EDGEONE_API_TOKEN }}
-        run: npx edgeone pages deploy ./public -n tragicmaster-blog -t ${{ secrets.EDGEONE_API_TOKEN }} [-e <env>]
+        run: |
+          echo "Deploying to EdgeOne Pages..."
+          npx edgeone pages deploy ./public -n tragicmaster-blog -t ${{ secrets.EDGEONE_API_TOKEN }} -e production
         
