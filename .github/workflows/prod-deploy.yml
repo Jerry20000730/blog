@@ -33,5 +33,5 @@ jobs:
           EDGEONE_API_TOKEN: ${{ secrets.EDGEONE_API_TOKEN }}
         run: |
           echo "Deploying to EdgeOne Pages..."
-          npx edgeone pages deploy ./public -n tragicmaster-blog -t ${{ secrets.EDGEONE_API_TOKEN }} -e production
+          npx edgeone pages deploy ./public -n tragicmaster-personal-blog -t ${{ secrets.EDGEONE_API_TOKEN }} -e production
         
